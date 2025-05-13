@@ -14,7 +14,7 @@ Project này sử dụng YOLOv8x và ByteTrack cho bài toán multi-object Track
 ---
 
 ## Cấu trúc project
-<pre> <code> MOT_YOLO_ByteTrack_traffice/
+<pre> <code> MOT_YOLO_ByteTrack_traffic/
 │
 ├── yolo/ # YOLOv8 detection code and model loading
 │ └── yolov8x.pt # [Not included] Large model file – download separately
@@ -28,3 +28,10 @@ Project này sử dụng YOLOv8x và ByteTrack cho bài toán multi-object Track
 ├── requirements.txt # Required Python packages
 └── README.md # Project documentation
 </code> </pre>
+
+## Demo
+
+<video width="640" height="360" controls>
+  <source src="video_traffic_result.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
