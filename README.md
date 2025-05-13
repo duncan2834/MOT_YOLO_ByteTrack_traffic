@@ -31,5 +31,8 @@ Project này sử dụng YOLOv8x và ByteTrack cho bài toán multi-object Track
 
 ## Demo
 
-[![Watch the video]
-(https://raw.githubusercontent.com/duncan2834/MOT_YOLO_ByteTrack_traffic/master/video_traffic_result.mp4)
+https://github.com/user-attachments/assets/866ba262-d650-4132-a947-143f0a3721da
+
+
+
+
