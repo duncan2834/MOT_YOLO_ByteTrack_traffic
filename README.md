@@ -14,7 +14,7 @@ Project này sử dụng YOLOv8x và ByteTrack cho bài toán multi-object Track
 ---
 
 ## Cấu trúc project
-MOT_YOLO_ByteTrack_traffice/
+<pre> <code> MOT_YOLO_ByteTrack_traffice/
 │
 ├── yolo/ # YOLOv8 detection code and model loading
 │ └── yolov8x.pt # [Not included] Large model file – download separately
@@ -27,3 +27,4 @@ MOT_YOLO_ByteTrack_traffice/
 ├── utils.py # Utility functions
 ├── requirements.txt # Required Python packages
 └── README.md # Project documentation
+</code> </pre>
