@@ -32,6 +32,5 @@ Project này sử dụng YOLOv8x và ByteTrack cho bài toán multi-object Track
 ## Demo
 
 <video width="640" height="360" controls>
-  <source src="video_traffic_result.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="video_traffic_result.mp4" type="mp4">
 </video>
